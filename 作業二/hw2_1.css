@@ -1,9 +1,9 @@
 body{
   background:#f6f3e2 
-  url(../images/bg.png) 
   repeat-x; 
   color:#644f4c; 
   font-family:georgia, arial, tahoma, ;}
+
 
 header{
   text-align:left;
@@ -12,17 +12,17 @@ header{
 }
 
 #page_now{
-  color:cadetblue;
-  font-family: 'Special Elite', cursive;
-  font-size:82px;
+  color:#644f4c;
+  font-family: georgia, arial, tahoma;
+  font-size:60px;
   line-height:1.5;
 }
 
 .c_me{
-  font-family: 'Share Tech Mono', sans-serif;
+  color:#644f4c;
+  font-family: georgia, arial, tahoma;  
   font-size:16px;
   line-height:1.5;
-  color:darkgray;
 }
 
 #c_m{
@@ -30,7 +30,8 @@ header{
 }
 
 #name_me{
-  font-family: 'Alegreya Sans', sans-serif;
+  color:#644f4c;
+  font-family: georgia, arial, tahoma;  
   font-size:32px;
   color:black;
 }
@@ -81,10 +82,6 @@ footer{
   width=10em;
   padding:5em;
 }
-
-
-
-
 
 
 
