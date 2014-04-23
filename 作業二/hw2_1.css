@@ -2,48 +2,38 @@ body{
   background:#f6f3e2 
   repeat-x; 
   color:#644f4c; 
-  font-family:georgia, arial, tahoma, ;}
-
+  font-family:georgia, arial, tahoma, ;
+}
 
 header{
-  text-align:left;
+  text-align:center;
   line-height:2;
-  padding:1em 10em;
+  padding:1em 1em;
+  font-size:50px;
+  font-family:georgia, arial, tahoma, ;
 }
-
-#page_now{
-  color:#644f4c;
-  font-family: georgia, arial, tahoma;
-  font-size:60px;
-  line-height:1.5;
-}
-
-.c_me{
-  color:#644f4c;
-  font-family: georgia, arial, tahoma;  
-  font-size:16px;
-  line-height:1.5;
-}
-
-#c_m{
-  font-size:22px;
-}
-
-#name_me{
-  color:#644f4c;
-  font-family: georgia, arial, tahoma;  
-  font-size:32px;
-  color:black;
-}
-
 
 
 nav{
-  font-family: 'Salsa', cursive;
+  color:#644f4c; 
+  font-family:georgia, arial, tahoma, ;
   font-size:24px;
-  color:slategray;
-  line-height:2;
   padding:0 5em;
+}
+
+section{
+  background-color:pink;
+  width:35em;
+  padding:10em;
+  margin:3em 10em;
+}
+ 
+footer{
+  text-align:center;
+  font-size:14px;
+  font-family: 'Share Tech Mono', sacadetbluens-serif;
+  width=10em;
+  padding:5em;
 }
 
 a:link{
@@ -53,37 +43,12 @@ a:link{
 
 a:hover{
   color:black;
-  font-size:26px;
+  font-size:30px;
 }
 
 a:visited{
-  color:slategray;
+  color:blue;
 }
-
-section{
-  background-color:rgba(141,182,205,0.6);
-  width:33em;
-  padding:2em;
-  margin:3em 10em;
-}
- 
-
-form{
-  color:#696969;
-  font-family: 'Marcellus SC', serif;
-  font-size:18px;
-  line-height:1.5;
-}
-
-footer{
-  text-align:center;
-  font-size:14px;
-  font-family: 'Share Tech Mono', sacadetbluens-serif;
-  width=10em;
-  padding:5em;
-}
-
-
 
 
 
