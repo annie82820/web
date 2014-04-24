@@ -189,6 +189,8 @@ ul,ol li{
 	width:960px; 
 	height:300px; 
 	float:left; 
+	margin:0 10px 0 10px; 
+	padding:0 10px 10 20px; 
 	margin:15px; 
 }
 
@@ -197,7 +199,7 @@ ul,ol li{
 	height:300px; 
 	float:left; 
 	margin:0 10px 0 10px; 
-	padding:0 10px 0 10px; 
+	padding:0 10px 10 10px; 
 	background:#e4e2d3;
 }
 
